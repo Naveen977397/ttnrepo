@@ -1,3 +1,5 @@
 hello world
 new changes in file
+
+another change in file
 change in file
